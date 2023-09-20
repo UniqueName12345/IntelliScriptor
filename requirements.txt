@@ -1,0 +1,4 @@
+torch
+pyqt5
+transformers
+transformers[torch]
